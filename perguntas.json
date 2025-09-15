@@ -1,0 +1,27 @@
+[
+    {
+        "pergunta": "Quantas peças de mão vem em um kit acadêmico Gnatus?",
+        "alternativas": ["2", "3", "4"],
+        "correta": 2
+    },
+    {
+        "pergunta":"Qual dos Kits acadêmicos Gnatus possui um uma peça de mão de alta rotação com Led",
+        "alternativas":["Prime", "Plus", "Profecional"],
+        "correta": 2
+    },
+    {
+        "pergunta": "Quais peças de mão são acopladas no micro-motor elétrico?",
+        "alternativas":["Alta Rotação, Contra-Angulo", "Alta Rotação, Peça-reta", "Contra-Angulo, Peça-reta"],
+        "correta": 2
+    },
+    {
+        "pergunta":"Qual a garantia minima dos Kits Academicos Gnatus?",
+        "alternativas":["3 meses", "6 meses", "12 meses"],
+        "correta": 2
+    },
+    {
+        "pergunta":"Qual das opções abaixo acompanhão spray lubrificante em seu Kit?",
+        "alternativas":["Prime, Plus", "Plus, Profecional", "Prime, Plus, Profecional"],
+        "correta": 2
+    }
+]
